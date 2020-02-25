@@ -1,0 +1,16 @@
+
+spring:
+  profiles:
+    active: demo
+  thymeleaf:
+    cache: false
+
+#日志配置
+logging:
+  level:
+    com.wang.boot.phone.mymove.mvmove1.partcategory.mapper: trace
+
+#mybatis配置
+#mybatis:
+#  mapper-locations: classpath:mapper/*/*.xml
+
