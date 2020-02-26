@@ -29,7 +29,7 @@
 三，省份排序自定义统计
 ![省份排序自定义统计](./img/省份排序自定义统计.jpg) 
  
-数据来自国家卫健委和各省卫健委通报[疫情数据链接](http://2019ncov.chinacdc.cn/2019-nCoV/)
+数据来自国家卫健委和各省卫健委通报 [疫情数据链接](http://2019ncov.chinacdc.cn/2019-nCoV/)
  
 图表模板来自于 [echarts官网](https://www.echartsjs.com/zh/index.html)
 
