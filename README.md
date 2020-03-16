@@ -17,17 +17,17 @@
 
 图表操作示例：
 一，各省走势图
-![各省走势图](./img/各省走势图.jpg)
-![各省走势图](./img/各省走势图全屏.jpg)
+![各省走势图](http://www.aly1.wang/media/img/yq/各省走势图.jpg)
+![各省走势图](http://www.aly1.wang/media/img/yq/各省走势图全屏.jpg)
 
 二，省份排序统计
-![省份排序统计](./img/省份排序统计.jpg)
-![省份排序统计](./img/省份排序统计全屏1.jpg)
-![省份排序统计](./img/省份排序统计全屏2.jpg)
-![省份排序统计](./img/省份排序统计全屏3.jpg)
+![省份排序统计](http://www.aly1.wang/media/img/yq/省份排序统计.jpg)
+![省份排序统计](http://www.aly1.wang/media/img/yq/省份排序统计全屏1.jpg)
+![省份排序统计](http://www.aly1.wang/media/img/yq/省份排序统计全屏2.jpg)
+![省份排序统计](http://www.aly1.wang/media/img/yq/省份排序统计全屏3.jpg)
 
 三，省份排序自定义统计
-![省份排序自定义统计](./img/省份排序自定义统计.jpg) 
+![省份排序自定义统计](http://www.aly1.wang/media/img/yq/省份排序自定义统计.jpg) 
  
 数据来自国家卫健委和各省卫健委通报 [疫情数据链接](http://2019ncov.chinacdc.cn/2019-nCoV/)
  
