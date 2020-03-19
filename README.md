@@ -18,6 +18,7 @@
 右侧是图表栏，右侧上方的全屏键可以放大统计图表
 
 图表操作示例：
+
 一，各省走势图
 ![各省走势图](http://www.aly1.wang/media/img/yq/各省走势图.jpg)
 ![各省走势图](http://www.aly1.wang/media/img/yq/各省走势图全屏.jpg)
